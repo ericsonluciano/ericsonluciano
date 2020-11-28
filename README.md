@@ -6,12 +6,13 @@
   
   - When i'm not at work i try to build side projects using Typescript, Prisma, NextJS, ReactJS and TailwindCSS
 
-  - A active volunteer organizer of Figma Philippines (User's Group) & ReactJS Philippines
+  - A active core volunteer of ReactJS Philippines & also Figma Advocate from Philippines.
   
   - I Love FinTech & Hospitality Niche!
 
 #### 📌  Hobbies
   - I’m currently game streamer at [Facebook](https://www.facebook.com/ewixgaming) and [Twitch](https://www.twitch.tv/ewicgaming)
+  - Building a Side Project :)
 
 #### 🔗  Reach me at
   - [Twitter](https://twitter.com/ericsonluciano)
